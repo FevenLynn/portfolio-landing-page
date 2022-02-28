@@ -9,7 +9,7 @@
 + [Authors Info](#Author)
 ## Project Description
 
-- This is my Portfolio, where I will showcase my work as I progress in my developer journey. All the projects I wil complete will be included here for my instructors, collaborators or potential employers to look at. The sites listed are those of sites I often interact with.
+- This is my Portfolio, where I will showcase my work as I progress in my developer journey. All the projects I wil complete will be included here for my instructors, collaborators or potential employers to look at. For now, the sites listed are those of sites I often interact with. The Portfolio will be oftenly updated with projects I will complete as I learn and grow as a developer.
 
 ## User Stories:
 
