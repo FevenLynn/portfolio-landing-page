@@ -11,6 +11,10 @@
     font-style: oblique;
     color: brown;
 }
+.heading {
+    color: darkmagenta;
+    text-align: center;
+}
 body {
     font-family: sans-serif;
     background-color: darkgray;
@@ -27,4 +31,5 @@ body {
 .media img {
     max-width: 100%;
     height: auto;
+    align-content: center;
 }
