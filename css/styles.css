@@ -1,3 +1,13 @@
 .intro {
     font-style: italic;
 }
+.hobbies {
+   background-color: blue; 
+}
+.websites {
+    background-color: chartreuse;
+}
+.interesting {
+    font-style: oblique;
+    color: brown;
+}
